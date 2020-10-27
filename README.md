@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there I'm [Karthick](https://www.linkedin.com/in/karthick-ramjee/) 👋
 
-<!--
-**karthick03/karthick03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthick03&layout=compact)](https://github.com/karthick03)
 
-Here are some ideas to get you started:
+<a href="https://github.com/karthick03">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=karthick03&show_icons=true&theme=light&line_height=27" alt="Karthick's github stats"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/karthick-ramjee/">
+  <img align="left" alt="Karthick's Linkedin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a> 
+<a href="https://github.com/karthick03">
+  <img align="left" alt="Karthick's Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<br />
