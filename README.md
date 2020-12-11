@@ -1,9 +1,9 @@
 ### Hi there I'm [Karthick](https://www.linkedin.com/in/karthick-ramjee/) 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthick03&layout=compact)](https://github.com/karthick03)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthick03&layout=compact&theme=dark)](https://github.com/karthick03)
 
 <a href="https://github.com/karthick03">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=karthick03&show_icons=true&theme=light&line_height=27" alt="Karthick's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=karthick03&show_icons=true&theme=dark&line_height=27" alt="Karthick's github stats"/>
 </a>
 
 ### Connect with me:
